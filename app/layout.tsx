@@ -55,7 +55,7 @@ export default async function RootLayout({
         className={`${raleway.variable} ${gambarino.variable} antialiased`}
       >
         <body className="bg-neutral-900 text-white">
-          <Navbar settings={settings} />
+          <NavBar settings={settings} />
           <main className="pt-14 md:pt-16">{children}</main>
           <Footer />
         </body>
