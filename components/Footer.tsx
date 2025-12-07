@@ -30,7 +30,7 @@ export const Footer = () => {
           </NavGroup>
         </div>
 
-        {/* Bottom Footer */}
+        {/* Footer Bottom */}
 
         <div className="mt-16 flex flex-col items-center justify-between gap-6 border-t border-neutral-800 pt-8 md:flex-row">
           <p className="text-center text-sm text-gray-400">
@@ -39,7 +39,7 @@ export const Footer = () => {
           <TransitionLink
             href="/"
             aria-label="Côte Royale Home"
-            className="order-first md:order-none"
+            className="order-first md:order-0"
           >
             <Image src="/logo.svg" alt="CÔTE ROYALE" width={150} height={25} />
           </TransitionLink>
