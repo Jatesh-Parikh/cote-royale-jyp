@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Key Learnings:
+- Using TypeScript, Next.js, GSAP, and Prismic to build modern, responsive, and pixel-perfect UIs.
+- Performance optimizations in Next.js.
+- Developing with accessibility in mind.
+
 ## Getting Started
 
 First, run the development server:
